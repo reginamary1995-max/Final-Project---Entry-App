@@ -1,0 +1,501 @@
+State Name (state_name),State Code (state_code),District Name (district_name),District Code (district_code),Block Name (block_name),Block Code (block_code),Gram Panchayat Name (gp_name),Gram Panchayat Code (gp_code),Village Name (village_name),Village Code (village_code),Is LGD Hierarchy Exact Mapped (is_lgd_exact_mapping),Asset (asset),Sbm (sbm),Mgnrega (mnerga),Mopr (mopr),Households Covered(%) (hhs_covered_per)
+"Kerala","32","Malappuram","562","Kalikavu","6692","Amarambalam","221544","Amarambalam","627476",true,"Household Bins",0,0,0,""
+"Gujarat","24","Patan","455","Chanasma","4195","Vasai","162900","Vasai","509072",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Etawah","139","Chakarnagar","1081","Jagtoli","60606","Mitrol","147952",true,"Compost Pits",0,0,0,0
+"Bihar","10","Siwan","222","Goriakothi","2113","Bhitthi","101312","Purandarpur","231629",true,"Feeding to Cattle",0,0,0,0
+"Bihar","10","Bhojpur","193","Agiaon","1689","Chasi","94744","Chansi","247566",true,"BioGas Plants",0,0,0,0
+"Jharkhand","20","Sahebganj","340","Udhwa","3245","North Begamganj","115090","Banjhi Kendra","359253",false,"Household Bins",0,0,0,""
+"Chhattisgarh","22","Mungeli","647","Mungeli","3611","Dhangaon (Cha)","123057","Chalan","438170",false,"BioGas Plants",0,0,0,0
+"Gujarat","24","Panch Mahals","454","Halol","4186","Vanseti","162430","Tajpura","518858",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Jaipur","102","Amber","684","Labana","38246","Labana","80390",true,"Household Bins",0,0,0,""
+"Chhattisgarh","22","Manendragarh-Chirmiri-Bharatpur(M C B)","760","Khadgawana","3676","Dubchhola","127274","Dubchhola","431767",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Udaipur","117","Gogunda","796","Ovra Kalan","42428","Obra Kalan","105688",true,"Compost Pits",0,0,0,0
+"Assam","18","Hojai","709","Dhalpukhuri","2660","Lanka Bheta","107178","Panjabi Basti","285387",false,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Balaghat","392","Khairlanji","3748","Arambha","132417","Arambha","497525",true,"Feeding to Cattle",0,0,0,0
+"Jharkhand","20","Dumka","326","Masaliya","3103","Amgachhi","112130","Bhangahir","372042",false,"BioGas Plants",0,0,0,0
+"Jharkhand","20","Sahebganj","340","Borio","3239","Telo","115006","Pachar","358511",false,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Fatehpur","142","Hathgaon","1111","Narauli Khurd","62459","Chak Mobin","157188",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Jaunpur","152","Badla Pur","1223","Merha","69188","Merha","200642",true,"Compost Pits",0,0,0,0
+"Bihar","10","Rohtas","215","Sasaram","2025","Darigaon","99917","Tendua","252423",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Indore","410","Indore","3863","Nawda Panth","140252","Shri Ram Talawali(Kachr","476248",false,"Household Bins",0,0,0,""
+"Andhra Pradesh","28","Dr. B.R. Ambedkar Konaseema","747","Alamuru","4867","Navabupeta","198991","Navabpeta","587663",true,"Feeding to Cattle",0,0,0,0
+"Bihar","10","Kaimur (Bhabua)","200","Mohania","1794","Shahbazpur","96370","Jitapur","249457",true,"Household Bins",109,0,0,""
+"Meghalaya","17","East Khasi Hills","274","Mawphlang","2457","Mawkohtep","287271","Mawkohtep","278158",true,"Household Bins",0,0,0,""
+"Jammu And Kashmir","1","Anantnag","1","Sagam","7036","Sagam (A)","242531","Sagam","3774",false,"BioGas Plants",0,0,0,0
+"Odisha","21","Bhadrak","348","Dhamanagar","3327","Gesindapur","116732","Gobindpur","394643",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Nagpur","484","Saoner","4455","Khapa(N)","180686","Pipala (Bhadi)","535240",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Kushinagar","160","Sukrauli","1320","Brindaban","74817","Brindaban","189005",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Nabarangpur","366","Kosagumuda","3516","Badambada","120464","Maliatigan","427887",true,"BioGas Plants",0,0,0,0
+"Haryana","6","Kurukshetra","68","Babain","517","Babain","31130","Guhan (152)","58633",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Bundi","94","Hindoli","636","Mendi","36237","Luhariya","93762",true,"Household Bins",0,0,0,""
+"Uttarakhand","5","Almora","45","Dhauladevi","355","Diyar Kholi","20883","Rangori","53666",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Damoh","400","Jabera","3803","Imaliya","136197","Imaliya","462536",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Sawai Madhopur","113","Chauth Ka Barwara","6824","Sarsop","41511","Sarsop","77547",true,"Feeding to Cattle",0,0,0,0
+"Tamil Nadu","33","Chengalpattu","730","Lathur","6180","Nedumaram","224132","Nedumaram","630188",true,"Feeding to Cattle",0,0,0,0
+"Gujarat","24","Patan","455","Santalpur","4200","Kilana","163226","Kilana","508609",true,"BioGas Plants",0,0,0,0
+"Punjab","3","Patiala","41","Sanour","331","Kakepur","19247","Kakapur (211)","36628",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Basti","131","Gaur","978","Baghaa Kadar","54013","Baghaa Karah","179428",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Amethi","640","Jamo","1589","Chituhala","91444","Debra","169036",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Sant Kabir Nagar","178","Khalilabad","1504","Baraiepar Paithan","85900","Dharue","182863",true,"Household Bins",0,0,0,""
+"Bihar","10","Vaishali","224","Hajipur","2142","Sultanpur","101769","Sultanpur","235730",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Bareilly","130","Baheri","960","Firozpur","52807","Richhaula","129160",true,"BioGas Plants",0,0,0,0
+"Assam","18","Nagaon","297","Kaliabor","2664","Jakhalabandha","107229","Hatimura No.1","284212",false,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Sonbhadra","184","Chopan","1571","Kharara","90341","Kharara","214023",true,"Compost Pits",0,0,0,0
+"Telangana","36","Jagitial","681","Velgatoor","5050","Cheggam","202044","Chegyam","571725",true,"Compost Pits",0,0,0,0
+"Telangana","36","Ranga Reddy","518","Amangal","5207","Ramanuthula","204837","Ramanuthula","575287",true,"Feeding to Cattle",0,0,0,0
+"Bihar","10","Purbi Champaran","213","Chiraiya","1975","Semra","99215","Semra","217895",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Nuapada","368","Nuapada","3534","Kadomeri","275457","Gudapatara","421621",true,"Compost Pits",0,0,0,0
+"Bihar","10","Jehanabad","199","Jehanabad","1782","Kalpa","96182","Tali","260149",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Khairthal-Tijara","770","Mandawar","580","Jhajhaarpur","295215","Kokawas","72037",true,"BioGas Plants",0,0,0,0
+"Bihar","10","Gopalganj","197","Phulwariya","1766","Pakauli Bado","95960","Tanwa Khas","230534",false,"Household Bins",0,0,0,""
+"Jharkhand","20","East Singhbum","327","Potka","3116","Kalikapur","112457","Kalikapur","363692",true,"Household Bins",0,0,0,""
+"Jharkhand","20","Hazaribagh","332","Chouparan","3166","Basariya","113458","Burhia Ahri","367638",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Gonda","147","Nawabganj","1163","Holapur Kaji","65559","Holapur Kaji","175473",true,"Compost Pits",0,2,0,0.52
+"Uttarakhand","5","Rudraprayag","54","Augustmuni","422","Sandar","260096","Sandar","42413",true,"Feeding to Cattle",0,0,0,0
+"Bihar","10","Arwal","611","Sonbhadra-Bansi-Surajpur","6508","Sonbhdra Panchayat","238538","Sonbhadar","260847",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Udaipur","117","Phalasiya","6850","Amod","42447","Thariveri","106231",true,"Feeding to Cattle",75,0,0,100
+"Maharashtra","27","Chandrapur","473","Mul","4360","Babrala","173780","Babrala","541437",true,"Compost Pits",6,0,0,4.2
+"Gujarat","24","Bharuch","442","Jambusar","4095","Kavi","156873","Kavi","521871",true,"Compost Pits",0,0,0,0
+"Himachal Pradesh","2","Chamba","16","Mehla","141","Dulara","7811","Dulada (158)","7923",true,"Household Bins",3,0,0,""
+"Punjab","3","Pathankot","662","Gharota","6779","Gulpur","13313","Gulpur (248)","27540",true,"Household Bins",0,0,0,""
+"Uttarakhand","5","Almora","45","Tarikhet","362","Simoli","21699","Patholi","52448",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Jabalpur","411","Jabalpur","3866","Padwar","140484","Padwar","489990",true,"BioGas Plants",0,0,0,0
+"Himachal Pradesh","2","Mandi","22","Drang","179","Kufri","9334","Nihoun (547)","13112",true,"BioGas Plants",0,0,0,0
+"Chhattisgarh","22","Surguja","389","Lundra","3723","Kudar","130834","Kudar","433424",true,"Compost Pits",0,0,0,0
+"Maharashtra","27","Parbhani","489","Jintur","4503","Shek","184760","Sek","546679",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Cooch Behar","308","Mekliganj","2853","Bagdogra-Fulkadabri","109005","Fulkardabri Kasiabari","307713",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Salbani","2999","Shatpati","110503","Khudra Bankati","338782",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Barmer","90","Dhanau","6844","Bamnor Ameershah","35077","Bamnor Bhanwarshah","88844",true,"Household Bins",0,0,0,""
+"Jharkhand","20","Dumka","326","Dumka","3098","Kesiabahal","112050","Krishnapur Urf Baski Chak","371368",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Hooghly","312","Polba-Dadpur","2900","Mahanad","109507","Patna Bhairabpur","325119",true,"Feeding to Cattle",0,0,0,0
+"Rajasthan","8","Jodhpur","107","Bilara","724","Kaparda","39726","Ram Nagar","85748",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Azamgarh","123","Phulpur","882","Katra Noorpur","48054","Miyanpur","194975",true,"Compost Pits",1,0,0,1.43
+"Nagaland","13","Noklak","736","Noklak","2344","Choklangan","258831","Choklangan","267984",true,"BioGas Plants",0,0,0,0
+"Jharkhand","20","Sahebganj","340","Barharwa","3238","Satgachhi","114988","Gramsir","359510",true,"Feeding to Cattle",0,0,0,0
+"Jammu And Kashmir","1","Jammu","5","Khour","60","Bhagwan Chak","240610","Bhagwan Chak","5550",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Kalahandi","358","Golamunda","3411","Badachergaon","118647","Meramahul","423684",true,"Compost Pits",0,0,0,0
+"Andhra Pradesh","28","Chittoor","503","Santhipuram Ho Arimuthanapalle","4795","Sivaramapuram","197700","Sivaramapuram","596860",true,"Household Bins",0,0,0,""
+"Jharkhand","20","Giridih","329","Deori","3134","Guniyathar","112756","Rojha","350651",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Balaghat","392","Khairlanji","3748","Sawari","132469","Sawari","497517",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Bhadohi","179","Abhauli","1510","Ram Nagar","86805","Tulapur","209783",true,"Household Bins",0,0,0,""
+"Assam","18","Karbi Anglong","292","Lumbajong","2621","Dhansiri","257816","Jusep Basti","295880",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Moradabad","171","Bilari","1416","Mohammad Hayatpur","80274","Bahoranpur Narauli","115507",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Purba Bardhaman","306","Burdwan-I","2800","Kshetia","108519","Tentral","320064",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Tonk","116","Uniara","791","Gothara","42207","Shyodaspura","93498",true,"Household Bins",0,0,0,""
+"West Bengal","19","Birbhum","307","Dubrajpur","2828","Jashpur","108769","Lahagram","318250",true,"Feeding to Cattle",239,0,0,43.38
+"Jharkhand","20","East Singhbum","327","Ghatshila","3112","Bhaduwa","112322","Tetlakocha","363488",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Shivamogga","547","Bhadravati","5898","Kagekodamaggi","219853","Kagekodamagge","608580",true,"Compost Pits",0,1,0,0.2
+"West Bengal","19","Murshidabad","319","Bharatpur-Ii","3007","Tenya-Baidyapur","110583","Bara Hati","315738",true,"Feeding to Cattle",107,0,0,21.02
+"Karnataka","29","Belagavi","527","Belagavi","5772","Belawatti","215683","Belvatti","597734",true,"Compost Pits",0,0,0,0
+"Andhra Pradesh","28","East Godavari","505","Rajanagaram","4904","Mukkinada","199636","Mukkinada","587419",true,"BioGas Plants",0,0,0,0
+"Madhya Pradesh","23","Guna","406","Chanchoda","3845","Khejrarama","138938","Khejra Rama","499615",true,"Household Bins",0,0,0,""
+"Jammu And Kashmir","1","Budgam","2","Khan-Sahib","18","Kral Pathri","241388","Soznipora","612",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Aligarh","119","Chandaus","821","Noorullapur","43596","Bhagwanpur","121929",true,"BioGas Plants",0,0,0,0
+"Jharkhand","20","Dumka","326","Jarmundi","3101","Kushmaha","112105","Baratanr","369883",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Hassan","539","Arsikere","5848","Yadavanahalli","218289","Channaikanahalli","615827",true,"BioGas Plants",0,0,0,0
+"Andhra Pradesh","28","Tirupati","752","Satyavedu","4796","Irugulam","197709","Irugulam","596318",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Sundaragada","373","Hemgir","3578","Kuchedega","121603","Khadu","383536",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Baleshwar","346","Jaleswar","3303","Olmara","116189","Brahmapur","391373",true,"Compost Pits",0,0,0,0
+"Mizoram","15","Lawngtlai","264","Sangau","2399","Sangau-Ii","259634","Sangau-Ii","271779",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Ashoknagar","391","Isagarh","3742","Futeranayagaon","131994","Shyam Garh","500076",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Sultanpur","185","Motigarpur","1594","Dandwa Kala","91759","Darwakala","170363",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Lucknow","162","Mohanlalganj","1335","Kanta Karaundi","75745","Kanta Karaundi","143761",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Tikamgarh","434","Palera","4030","Kharo","152883","Kharon","456890",true,"Feeding to Cattle",0,0,0,0
+"Jharkhand","20","Dumka","326","Jarmundi","3101","Shankarpur","112114","Newanipathar","369727",false,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Dharashiv","488","Dharashiv","4498","Kumalwadi","184294","Kumalwadi","561452",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Sidhi","433","Sihawal","4025","Janakpur","152442","Padariya","503040",true,"Compost Pits",0,0,0,0
+"Maharashtra","27","Raigad","491","Roha","4535","Khamb","187282","Nadawali","554371",true,"Compost Pits",10,0,0,6.37
+"Madhya Pradesh","23","Seoni","428","Barghat","3987","Gangpur","149490","Ulat","496965",true,"Household Bins",0,0,0,""
+"Maharashtra","27","Nagpur","484","Nagpur","4451","Bailwada","180426","Bailwada","535838",true,"Household Bins",117,0,0,""
+"Assam","18","Tinsukia","302","Makum","2716","Baruaholla","107691","Baruahula Gaon","290571",true,"Compost Pits",36,0,0,7.1
+"Uttarakhand","5","Chamoli","47","Joshimath","370","Dwing Tapaun","22325","Tapon","40839",true,"BioGas Plants",0,0,0,0
+"Assam","18","Sonitpur","301","Dhekiajuli","2709","Amiyapur","107612","Narengkati Bangali","285563",true,"BioGas Plants",0,0,0,0
+"Karnataka","29","Kolar","542","Mulbagal","5872","Balla","218993","Kumadenahalli","622928",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Dharashiv","488","Kalamb","4495","Borgaon (Bk)","184047","Borgaon Bk.","561340",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Boudh","349","Kantamal","3331","Khuntigora","116826","Sanakalarakotha","417881",true,"Household Bins",0,0,0,""
+"Rajasthan","8","Jaipur","102","Kotkhawda","7445","Khira Rani Was","38319","Chak Maharajpura","81144",false,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Kandhamal","359","Chakapad","3423","Chakapad","118885","Kutrasingsakha","416066",false,"Feeding to Cattle",0,0,0,0
+"Bihar","10","Aurangabad","189","Goh","1637","Bhurkunda","93924","Akauna","252967",true,"Compost Pits",0,0,0,0
+"Meghalaya","17","East Garo Hills","273","Dambo Rongjeng","2450","Rogu Alda","284001","Rogu Alda","274777",true,"Compost Pits",0,0,0,0
+"Chhattisgarh","22","Khairagarh-Chhuikhadan-Gandai","759","Khairagarh","3713","Charbhata","130175","Charbhatha","440391",true,"Compost Pits",10,0,0,3.03
+"Telangana","36","Nagarkurnool","694","Kodair","5231","Kodair","205338","Kodair","576156",true,"Compost Pits",1,0,0,0.1
+"Rajasthan","8","Ganganagar","100","Raisinghnagar","678","Thakri","37891","Thakari-A","65220",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Baleshwar","346","Basta","3301","Natakata","116130","Panchabatia","392338",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Budaun","133","Dahgavan","1002","Dhail","55880","Dhail","128070",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Bareilly","130","Nawabganj","971","Sithra","53574","Nawadia Raghu Nath","130583",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Surat","459","Olpad","4239","Gola","165384","Andhi","523721",false,"Compost Pits",0,0,0,0
+"Odisha","21","Sundaragada","373","Balisankara","3573","Balisankara","121521","Balisankara","384045",true,"Household Bins",0,0,0,""
+"Rajasthan","8","Chittorgarh","95","Bhadesar","643","Nanana","36496","Durjanji Ka Khera","101335",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Chhotaudepur","668","Naswadi","4262","Anandpuri","166721","Anandpuri","520543",true,"Household Bins",0,0,0,""
+"Maharashtra","27","Kolhapur","480","Bhudargad","4421","Bidri/ Peth Shivapur","178319","Bidri","567813",true,"Household Bins",190,0,0,""
+"Himachal Pradesh","2","Una","26","Una","209","Nangran","10518","Nangran (222)","18813",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Hamirpur","149","Gohand","1188","Jakheri","67177","Aura Khera","153866",true,"Compost Pits",0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Midnapore","2993","Panchkhuri-Ii","110434","Juarhati","339383",true,"Feeding to Cattle",0,0,0,0
+"Andhra Pradesh","28","Alluri Sitharama Raju","745","Maredumilli","4895","Chatlawada","199457","Boduluru(025 )","586552",false,"Household Bins",0,0,0,""
+"Jharkhand","20","East Singhbum","327","Bahragora","3108","Kheduwa","112258","Tubli","364572",true,"BioGas Plants",0,0,0,0
+"Bihar","10","Siwan","222","Raghunathpur","2122","Khujwan","101428","Basantpur","232477",true,"BioGas Plants",0,0,0,0
+"Assam","18","Golaghat","288","Golaghat West","2582","Gulung Temera","106473","Bali Chapori","294296",true,"Household Bins",0,0,0,""
+"Bihar","10","Kaimur (Bhabua)","200","Kudra","1793","Bahera","96337","Ajgara","249206",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Ambedkar Nagar","121","Bhiyawan","853","Madvarpur","45933","Madawarpur","168085",true,"Household Bins",0,0,0,""
+"Odisha","21","Gajapati","353","Mohana","3360","Badakhani","275040","Rekamera","413764",true,"Household Bins",0,0,0,""
+"Rajasthan","8","Dholpur","98","Saipau","6871","Sakhwara","37361","Thekooli","75827",true,"Compost Pits",0,0,0,0
+"Odisha","21","Balangir","345","Patnagarh","3293","Kendumundi","115947","Bindhanpathar","420695",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Sultanpur","185","Lambhua","1593","Dahev Gopalpatti","270237","Gopalpur","170690",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Chhindwara","399","Amarwara","3789","Gurraiya","135188","Mehandwada","493920",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Lucknow","162","Sarojaninagar","1336","Sarai Shahjadi","75840","Sarai Sahjadi","143512",true,"Compost Pits",0,0,0,0
+"Odisha","21","Mayurbhanj","365","Kaptipada","3497","Jayantipata-Samil-Jamdiha","120199","Hillblock No-151","391119",false,"Household Bins",0,0,0,""
+"West Bengal","19","Paschim Medinipur","318","Sabang","2998","Sabang","110492","Nakindi","342829",true,"Compost Pits",0,0,0,0
+"Jharkhand","20","West Singhbhum","343","Tonto","3275","Bundu","115541","Kuilsuta","377982",true,"Compost Pits",0,0,0,0
+"Andhra Pradesh","28","Ntr","749","Vatsavai","5143","Pochavaram","203794","Gangavalli","588811",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Solapur","496","Malshiras","4582","Yashwantngar","191446","Yashawantnagar","562459",true,"Feeding to Cattle",2,0,0,0.11
+"Rajasthan","8","Jhunjhunu","106","Nawalgarh","718","Kairu","39513","Lakh Ki Dhani","71605",true,"Compost Pits",0,0,0,0
+"Bihar","10","Patna","212","Daniyawan","1952","Bankipur Machhariyawan","98871","Kashmiriya","246235",true,"Household Bins",0,0,0,""
+"Punjab","3","Patiala","41","Nabha","326","Kameli","18721","Kameli (212)","36395",true,"Feeding to Cattle",0,0,0,0
+"Madhya Pradesh","23","Betul","394","Bhainsdehi","3764","Basnerkala","133440","Basner Kalan","485288",true,"Feeding to Cattle",0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Narayangarh","2995","Kashipur","110448","Dibara Panda","343029",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Jabalpur","411","Kundam","3867","Turka","140581","Turka","490336",true,"Compost Pits",0,0,0,0
+"Chhattisgarh","22","Kabeerdham","382","Bodla","3665","Khamria","126468","Mudhipar","439506",false,"Household Bins",0,0,0,""
+"Maharashtra","27","Gondia","476","Arjuni Morgaon","4384","Bondgaon (Devi)","175256","Bondgaon Devi","538273",true,"Feeding to Cattle",0,0,0,0
+"Madhya Pradesh","23","Seoni","428","Lakhnadon","3993","Pipria Mehra","149959","Bijori Ryt.","495698",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Sultanpur","185","Akhand Nagar","1577","Tikari","90808","Bhairopur","171153",true,"BioGas Plants",0,0,0,0
+"Madhya Pradesh","23","Umaria","436","Karkeli","4039","Nighri","153757","Sarra","467842",true,"BioGas Plants",0,0,0,0
+"Punjab","3","Ferozepur","31","Ghall Khurd","244","Sur Singh Wala","11778","Sur Singhwala (142)","34502",true,"BioGas Plants",0,0,0,0
+"Meghalaya","17","East Garo Hills","273","Songsak","2454","Sokadam Sokmitegre","284466","Sokadam Sokmite","275263",true,"Compost Pits",0,0,0,0
+"Gujarat","24","Panch Mahals","454","Shehera","4194","Bhadrala","162777","Bhadrala","518425",false,"Compost Pits",0,0,0,0
+"Tripura","16","Khowai","652","Tulashikhar","2449","Badlabari","254281","Badlabari","271937",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Hathras","163","Hathras","1338","Pura Kala","75966","Purakalan","123260",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Didwana-Kuchaman","768","Kuchaman","743","Jiliya","40502","Jiliya","83798",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Balangir","345","Puintala","3294","Patharala","115978","Talpali","420261",true,"Compost Pits",1,0,0,0.56
+"Jharkhand","20","Godda","330","Mahagama","3145","Saroutiya","113082","Sarautia","356486",true,"Compost Pits",0,0,0,0
+"Tamil Nadu","33","Tiruchirappalli","591","Uppiliapuram","6382","Venkatachalapuram","230466","Venkatachalapuram","635764",true,"BioGas Plants",0,0,0,0
+"Meghalaya","17","West Khasi Hills","279","Nongstoin","2487","Kenlyngdoh","285932","Kenlyngdoh","276769",true,"Household Bins",0,0,0,""
+"Maharashtra","27","Solapur","496","Malshiras","4582","Falawani","191364","Falawani","562506",true,"Household Bins",0,0,0,""
+"Odisha","21","Anugola","344","Anugul","3276","Badakera","115553","Ragadiapada","405202",true,"Compost Pits",8,0,0,19.51
+"Rajasthan","8","Pali","111","Bali","751","Sewari","40834","Sewari","91304",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Saharanpur","177","Deoband","1491","Sultanpur","85069","Sultanpur","110177",true,"Compost Pits",0,0,0,0
+"Punjab","3","Sangrur","43","Bhawani Garh","342","Masani","20266","Masani (30)","39699",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Jalaun","151","Jalaun","1215","Dhantauli","68659","Dhanauli","151335",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Mau","168","Ranipur","1386","Assi","78737","Chandan Chaki","197474",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Shamli","660","Un","1438","Ud Pur","81717","Bhatti Mazra","110523",true,"Compost Pits",0,0,0,0
+"Karnataka","29","Belagavi","527","Khanapur","5777","Kadatanabagewadi","215967","Kadatanbagewadi","597907",true,"Household Bins",0,0,0,""
+"Punjab","3","Hoshiarpur","33","Hajipur","270","Asafpur","13925","Asafpur","31109",false,"Household Bins",0,0,0,""
+"Assam","18","Goalpara","287","Lakhipur","2575","Aolatoli","106383","Nizkusakati","281964",false,"BioGas Plants",0,0,0,0
+"Bihar","10","Gaya","196","Gurua","1743","Gurua","95594","Habibpur","255648",true,"Household Bins",0,0,0,""
+"Bihar","10","Samastipur","217","Morwa","2047","Larua","100281","Dadanpur","236736",true,"Household Bins",0,0,0,""
+"Rajasthan","8","Baran","89","Chhabra","599","Moondla","34776","Balharpur","103418",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Chitrakoot","136","Ramnagar","1046","Choraha","58522","Binaura","155924",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Mahrajganj","164","Nichlaul","1351","Kalnahin Khurd","76741","Charbhariya","183954",true,"Compost Pits",0,0,0,0
+"Odisha","21","Puri","369","Kakat Pur","3540","Kotakana","120961","Bibhutipur","409122",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Junagadh","448","Junagadh","4133","Khalilpur","159369","Khalilpur","514480",true,"Compost Pits",0,0,0,0
+"Kerala","32","Kasaragod","558","Karadka","6697","Belloor","221276","Nettanige","627108",true,"Compost Pits",84,31,0,12.78
+"Uttar Pradesh","9","Saharanpur","177","Ballia Kheri","1490","Sherpur Guzar","85014","Fatehpur Guzar","109405",true,"Household Bins",0,0,0,""
+"Bihar","10","Vaishali","224","Bhagwanpur","2137","Manganpur","101677","Barah Rup","234883",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Jaipur","102","Jamwa Ramgarh","689","Nayala","38462","Meeno Ka Barh","80631",true,"BioGas Plants",0,0,0,0
+"Madhya Pradesh","23","Ujjain","435","Khacharod","4035","Chanpakheda","153283","Chanpa Kheda","471061",true,"Compost Pits",0,0,0,0
+"Telangana","36","Jayashankar Bhupalapally","687","Mogullapalle","5686","Peddakomatipalle","213848","Peddakomatipalle","577776",true,"Compost Pits",0,0,0,0
+"Assam","18","Cachar","282","Kalain","2512","Kurkuri","105834","Karkari Pt Iv","299059",false,"Compost Pits",23,0,0,100
+"Karnataka","29","Mandya","544","Nagamangala","5883","Lalanakere","219385","Anechannapura","613784",true,"Compost Pits",0,1,0,0.7
+"Uttar Pradesh","9","Fatehpur","142","Amauli","1104","Digharuva","62015","Digharuva","156376",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Sant Kabir Nagar","178","Hainsar Bazar","1503","Jigina","85855","Jigina","183470",true,"BioGas Plants",0,0,0,0
+"Himachal Pradesh","2","Kangra","18","Nurpur","160","Punder","8640","Chho (210)","8638",true,"Feeding to Cattle",15,0,0,78.95
+"Jammu And Kashmir","1","Baramulla","3","Sangrama","7016","Bulgam","241948","Bulgam","2227",true,"Feeding to Cattle",0,0,0,0
+"Chhattisgarh","22","Gariyaband","645","Fingeshwar","3701","Roba","129269","Roba","444814",true,"Feeding to Cattle",0,0,0,0
+"Rajasthan","8","Jhalawar","105","Khanpur","710","Moondla","39223","Bard Guwaliya","103858",true,"Compost Pits",0,0,0,0
+"Karnataka","29","Davanagere","535","Channagiri","5820","Goppenahalli","217415","Goppenahalli","607098",true,"Household Bins",0,0,0,""
+"Bihar","10","Purbi Champaran","213","Tetariya","1994","Tetaria","99459","Madhopur Hari","218635",true,"Feeding to Cattle",0,0,0,0
+"Punjab","3","Ludhiana","36","Pakhowal","299","Ranguwal","16839","Ranguwala","33554",false,"Compost Pits",0,0,0,0
+"Maharashtra","27","Yavatmal","500","Darwha","4620","Saikhed","193911","Saikhed","542577",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Hardoi","150","Bawan","1196","Bharigwyan","67556","Harsinghpur","140040",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Bidar","529","Bidar","5791","Chita","216415","Chitta","600187",true,"Feeding to Cattle",0,0,0,0
+"Rajasthan","8","Jhalawar","105","Bakani","707","Barkhera Kalan","39074","Amjhar Khurd","104359",true,"Compost Pits",0,6,0,3.75
+"Uttar Pradesh","9","Baghpat","124","Pilana","893","Kaharka","48712","Harsia","119499",true,"Compost Pits",0,0,0,0
+"Bihar","10","Siwan","222","Barharia","2108","Padarauna Khurd","101239","Pararauna","231455",true,"Feeding to Cattle",0,0,0,0
+"Madhya Pradesh","23","Sagar","425","Shahgarh","3973","Palkatod","148247","Pulkator","460436",true,"Compost Pits",0,0,0,0
+"Assam","18","Dibrugarh","286","Barbaruah","2563","Kutuha","106249","Bhogamur Gaon No.1","291207",true,"Feeding to Cattle",0,0,0,0
+"Rajasthan","8","Bhilwara","92","Suwana","630","Sind Diyas","35992","Akola","95552",true,"Feeding to Cattle",0,0,0,0
+"Nagaland","13","Mon","247","Angjangyang","6751","Angphang","258533","Angphang","267069",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Basti","131","Vikram Jot","987","Sukrauli Pande","54749","Sukrauli Pande","179828",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Jaipur","102","Shahpura","695","Peeplod Narain","294406","Peeplod Nathu","79311",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Muzaffarnagar","172","Budhana","1426","Husainabad Bhanwara","81105","Husainabad Bhambara","111111",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Amravati","468","Achalpur","4298","Ramapur Belaj","169441","Ramapur Belaj","531923",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Dausa","97","Ramgarh Pachwara","7444","Bidarkha","37131","Sita Pura","78691",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Dakshina Kannada","534","Mudubidare","7428","Daregudde","217298","Kellaputhige","617464",true,"Household Bins",0,0,0,""
+"Andhra Pradesh","28","Eluru","748","Chintalapudi","5714","Chintapalli","214381","Chintampalle","587932",true,"Household Bins",0,0,0,""
+"Odisha","21","Baleshwar","346","Jaleswar","3303","Gobarghata","275582","Krushnanagar","391436",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Bulandshahr","134","Sikandrabad","1030","Rupbas Pachgai","57509","Rupbas Pachgai","120580",true,"Compost Pits",0,0,0,0
+"Karnataka","29","Chikkaballapura","630","Chintamani","5867","Bhommisettihalli","218848","Moogalamari","624443",true,"Household Bins",0,0,0,""
+"Jharkhand","20","Sahebganj","340","Mandro","3240","Damin Bhitha","115011","Sundere","358028",true,"Compost Pits",0,0,0,0
+"Manipur","14","Imphal East","255","Sawombung Cd Block","7188","Uyumpok","254693","Taretkhul","270225",true,"Household Bins",0,0,0,""
+"Rajasthan","8","Barmer","90","Sheo","608","Bhinyar","35127","Bhiyad","86827",true,"BioGas Plants",0,0,0,0
+"Madhya Pradesh","23","Rewa","424","Raipur Karchuliyan","3959","Ahirgaon","147115","Kothi","467429",false,"Feeding to Cattle",0,0,0,0
+"West Bengal","19","Purulia","321","Puncha","3058","Puncha","111085","Laulara","331044",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Salumbar","777","Sarada","802","Nathara","42705","Nathara","107430",true,"Feeding to Cattle",47,0,0,10.35
+"Maharashtra","27","Chandrapur","473","Rajura","4363","Sirsi","173969","Shirsi","541807",true,"Compost Pits",5,0,0,3.07
+"Nagaland","13","Niuland","764","Aghunaqa","6749","Xukhuvi","258255","Xukhuvi","267589",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Azamgarh","123","Azmatgarh","868","Mahuliya","47055","Bojhiya","193286",true,"BioGas Plants",0,0,0,0
+"Madhya Pradesh","23","Sehore","427","Nasrullaganj","3985","Bach Gaon","149239","Pipalia","483331",false,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Mirzapur","170","Hallia","1401","Pawari Khurd","268756","Sendurah","212042",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Purulia","321","Jhalda-Ii","3052","Hirapuradardih","111024","Mutukura","331486",true,"BioGas Plants",0,0,0,0
+"Jharkhand","20","Giridih","329","Gandey","3137","Gandey","112860","Mohandih","351853",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Rajsamand","112","Amet","761","Ghosundi","41122","Kalesariya","96765",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Barmer","90","Dhorimanna","607","Andaniyon Ki Dhani","295483","Pratapnagar","88000",false,"Compost Pits",59,0,0,39.6
+"Bihar","10","Saran","218","Amnour","2059","Katsa","100505","Arna","233980",true,"Feeding to Cattle",0,0,0,0
+"Bihar","10","Darbhanga","195","Baheri","1716","Chakwa Bharwari","95153","Chak Milki","227634",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Aligarh","119","Akrabad","818","Kelan Pur","266258","Kelanpur","122667",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Khordha","362","Jatni","3463","Kantia","119658","Niranjanpur","407823",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Muzaffarnagar","172","Purkaji","1434","Badhiwala","81496","Bhainsliwala","110899",true,"Household Bins",0,0,0,""
+"Rajasthan","8","Sikar","114","Fatehpur","775","Rosawa","41637","Rampura","81268",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Latur","481","Ahemadpur","4431","Vaygaon","179315","Waigaon","560395",true,"BioGas Plants",0,0,0,0
+"Madhya Pradesh","23","Raisen","421","Silwani","3940","Khamera","145538","Kakarua","484899",false,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Nanded","485","Hadgaon","4462","Sapti","181191","Sapti","544463",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Pune","490","Indapur","4516","Agoti No.2","185790","Agoti No.2","557073",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Bengaluru Rural","526","Devanhalli","5764","Anneshwara","215424","Anneswara","625407",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Bengaluru Rural","526","Nelamangala","5769","Agalakuppe","215575","Halenijagal","624728",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Sambalpur","371","Kuchinda","3562","Telitileimal","121365","Niktimal(D)","381581",true,"Feeding to Cattle",2,0,0,2.41
+"West Bengal","19","Purba Medinipur","317","Contai-Iii","2951","Marishda","110046","Dihibahiri","346590",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Singrauli","638","Chitrangi","4019","Khokhawa","151958","Khokhwa","503608",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Chandrapur","473","Bhadrawati","4353","Chargaon","173385","Chargaon","541229",true,"Household Bins",61,0,0,""
+"Uttar Pradesh","9","Bijnor","132","Mohammedpur Deomal","995","Ratanpur Riyaya","55388","Rasulpur Pirthi","112268",false,"BioGas Plants",0,0,0,0
+"Odisha","21","Baleshwar","346","Nilgiri","3305","K.P.Lakharaj","116242","Chandipur","393136",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Sambhal","659","Sambhal","1423","Hafizpur","80922","Mubarikpur","115928",true,"Feeding to Cattle",0,0,0,0
+"Assam","18","Lakhimpur","295","Dhakuakhana","2642","Harhi","106963","No.1 Thekeraguri","288332",true,"Compost Pits",93,0,0,100
+"Madhya Pradesh","23","Sidhi","433","Sidhi","4024","Hinouti No. 1","152325","Hinauti No.1","502510",true,"Household Bins",0,0,0,""
+"Chhattisgarh","22","Dakshin Bastar Dantewada","376","Geedam","3619","Korlapal","263406","Nagfani","450177",true,"Household Bins",0,0,0,""
+"Bihar","10","Darbhanga","195","Bahadurpur","1715","Ojhoul","95136","Musapur","227358",true,"Compost Pits",0,0,0,0
+"Bihar","10","Nalanda","209","Ekangarsarai","1899","Soniyawan","98119","Daniawan","244925",false,"Household Bins",0,0,0,""
+"Odisha","21","Gajapati","353","Gosani","3357","Madhusudanpur","117452","Buguda","414672",true,"Feeding to Cattle",0,0,0,0
+"Kerala","32","Thrissur","566","Irinjalakkuda","6086","Muriyad","221851","Muriyad","627895",true,"Household Bins",0,0,0,""
+"Bihar","10","Bhagalpur","192","Pirpainti","1683","Rajgaon Araji","94652","Upar Bhalua","239058",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Kanpur Dehat","156","Maitha","1270","Bhikhar","71744","Singhpur Dewani","149272",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Amethi","640","Tiloi","1482","Rajanpur","271296","Rajanpur","144118",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Jalore","104","Raniwara","704","Chatwara","38968","Narayan Nagar","89777",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Gonda","147","Babhanjot","1153","Singar Ghat","64930","Singar Ghat","175745",true,"Compost Pits",2,0,0,0.52
+"Odisha","21","Nayagada","367","Nuagaon","3528","Singharapalli","120699","Nuagaon","406456",true,"BioGas Plants",0,0,0,0
+"Himachal Pradesh","2","Chamba","16","Mehla","141","Kiri","7821","Lagga (203)","7971",true,"Feeding to Cattle",1,0,0,0.72
+"Odisha","21","Kendujhar","361","Patana","3453","Budhikapudi","119475","Belapasi","385675",true,"Compost Pits",10,0,0,16.39
+"Madhya Pradesh","23","Betul","394","Bhainsdehi","3764","Khamla","133463","Bothiya","485348",true,"Feeding to Cattle",0,0,0,0
+"Bihar","10","Vaishali","224","Mahnar","2145","Hasanpur South","101822","Dharampur Palwaia","236134",true,"Feeding to Cattle",0,0,0,0
+"Gujarat","24","Bhavnagar","443","Palitana","4105","Ratanpur","157606","Ratanpur","516490",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Jalgaon","478","Chalisgaon","4400","Rajdehre","176616","Rajdehare Sett.","527860",false,"Household Bins",0,0,0,""
+"Himachal Pradesh","2","Una","26","Amb","205","Ghevat Behar","297757","Ghavet Baherh","18155",false,"Compost Pits",13,0,0,1.93
+"Odisha","21","Kalahandi","358","Thuamul Ram Pur","3421","Tala-Ambpadar","275627","Talambpadar","424359",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Niwari","722","Niwari","4029","Jhingora","152811","Dharma Pura","456483",true,"Feeding to Cattle",0,0,0,0
+"Chhattisgarh","22","Mungeli","647","Pathariya","3612","Dhotma","123155","Dhotma","438357",true,"Compost Pits",0,0,0,0
+"Punjab","3","Ferozepur","31","Firozpur","243","Hasti Wala","11709","Hastiwala (122)","34529",true,"Feeding to Cattle",0,0,0,0
+"Assam","18","Sonitpur","301","Borchala","2707","Natun Sirajuli","107589","No.2 Natun Chirajuli Gaon","285792",false,"BioGas Plants",0,0,0,0
+"Bihar","10","Buxar","194","Buxar","1704","Kamarpur","94995","Baluwa","248222",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Tonk","116","Newai","788","Dangarthal","42086","Dangarthal","92813",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Saharanpur","177","Muzaffarabad","1493","Ganeshpur","85184","Ganeshpur","109073",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Jajpur","356","Badchana","3394","Anaka","118236","Dakhinakula","401800",true,"BioGas Plants",0,0,0,0
+"Tamil Nadu","33","Thanjavur","586","Madukkur","6323","Elangadu","228513","Elangadu","639067",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Hardoi","150","Sandila","1209","Mawae Musalmanan","68297","Mawai Musalmanan","141003",true,"Compost Pits",0,0,0,0
+"Odisha","21","Mayurbhanj","365","Karanjia","3498","Rasamtola","120228","Simgan","388913",true,"Household Bins",0,0,0,""
+"Bihar","10","Purnia","214","Barhara","2000","Nathpur","99565","Nathpur","223136",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Balrampur","127","Pachpedwa","929","Majhgawan","50834","Majgawaan","173714",true,"Compost Pits",0,0,0,0
+"Bihar","10","Saran","218","Revelganj","2076","Diliya Rahim Pur","100783","Tola Bala Rai","233589",true,"Household Bins",0,0,0,""
+"Karnataka","29","Tumakuru","548","Kunigal","5908","Baagenahalli","220181","Sobaganahalli","612533",true,"BioGas Plants",0,0,0,0
+"Karnataka","29","Davanagere","535","Channagiri","5820","Chiradoni","217409","Chiradoni","606908",true,"Feeding to Cattle",0,0,0,0
+"Jharkhand","20","Giridih","329","Dhanwar","3135","Chatti","112778","Jhumri","350993",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Varanasi","187","Arajiline","1616","Veerbhanpur","93058","Birbhanpur (Ct)","209733",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Mahrajganj","164","Ghughli","1346","Jagdishpur","76376","Jagadishpur","184603",true,"Feeding to Cattle",5,0,0,0.93
+"Uttar Pradesh","9","Lalitpur","161","Mehroni","1327","Jakhaura","75271","Jakhaura","153406",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Sonbhadra","184","Ghorawal","1573","Barauli","90421","Bandha","213232",true,"Household Bins",0,0,0,""
+"Himachal Pradesh","2","Shimla","23","Chopal","187","Bohar","9630","Dhamroli(Bagain)","25837",false,"Feeding to Cattle",196,0,0,100
+"Karnataka","29","Chikkamagaluru","532","Ajjampura","7379","Mugali","217001","Garagadahalli","609283",true,"Household Bins",0,0,0,""
+"West Bengal","19","Hooghly","312","Polba-Dadpur","2900","Rajhat","109510","Atpukur","325167",true,"Household Bins",0,0,0,""
+"Maharashtra","27","Jalna","479","Ghansawangi","4414","Paradgaon","177817","Antarwala Bk.","547933",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Hanumangarh","101","Hanumangarh","682","31 Ssw","38017","31 Ssw (Fatehgarh)","67770",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Raigad","491","Poladpur","4534","Matwan","187245","Matwan","555144",true,"Household Bins",89,0,0,""
+"Karnataka","29","Tumakuru","548","Kunigal","5908","Nademavinapura","220203","Siddapura","612465",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Nashik","487","Peth","4489","Shivshet","183614","Amdongra","550683",true,"Household Bins",70,0,0,""
+"Chhattisgarh","22","Mohla-Manpur-Ambagarh Chouki","761","Manpur (Td)","3714","Pendodi","130289","Pendodi","441537",true,"Compost Pits",10,1,0,3.81
+"Uttar Pradesh","9","Hardoi","150","Ahirori","1195","Ghoora","272246","Ghoora","140315",true,"Compost Pits",0,0,0,0
+"West Bengal","19","Uttar Dinajpur","311","Goalpokhar Ii","2879","Kanki","109259","Sahaspur","309250",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Gonda","147","Mankapur","1161","Bhar Purva","65420","Naraianpur Khurd","175647",true,"Feeding to Cattle",0,0,0,0
+"Madhya Pradesh","23","Narmadapuram","409","Seoni Malwa","3860","Basaniyakalan","139944","Basaniya Kalan","487162",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Bijnor","132","Dhampur","990","Shekpur Bhawra","265608","Shekhpur Bhawra","113554",true,"Household Bins",0,0,0,""
+"Uttarakhand","5","Dehradun","49","Chakrata","379","Matiyana","243314","Matiyana","44609",true,"Compost Pits",0,0,0,0
+"Odisha","21","Kendujhar","361","Champua","3445","Kodagadia","119298","Kodagadia","385418",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Jabalpur","411","Kundam","3867","Madaikalan","140565","Madai Kalan","490416",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Prayagraj","120","Bhagwatpur","7359","Ismailpur Kotwa","270318","Ismailpur Kotwa","161755",true,"Compost Pits",0,0,0,0
+"West Bengal","19","Malda","316","Harishchandrapur-I","2938","Harishchandrapur","109916","Khejurbari","312048",true,"Household Bins",0,0,0,""
+"Rajasthan","8","Beawar","774","Masooda","571","Harrajpura","33759","Landi","91966",true,"Compost Pits",0,7,0,5.88
+"Jharkhand","20","Deoghar","324","Sarwan","3089","Lakhoriya","111713","Bhaluwahi","353932",true,"Compost Pits",0,0,0,0
+"Bihar","10","Samastipur","217","Khanpur","2044","Dinmanpur South","100230","Khatuaha Bahuarpatti","236466",true,"Compost Pits",0,0,0,0
+"Assam","18","Karimganj","293","Badarpur","2627","Masely","106858","Raj Pasha","300159",false,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Ballia","126","Navanagar","919","Gaji Pakad","50173","Usari","198019",true,"Compost Pits",0,0,0,0
+"Telangana","36","Jangoan","689","Chilpur","7255","Venkatadripeta","213555","Venkatadripet","577690",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Dakshin Dinajpur","310","Gangarampur","2872","Chaloon","109203","Shankarpur","310745",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Bikaner","93","Sri Dungargarh","635","Thukarisar","36209","Thukariasar","69856",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Devbhumi Dwarka","674","Khambhalia","4129","Parodiya","159171","Parodiya","513492",true,"Compost Pits",0,0,0,0
+"Maharashtra","27","Sangli","493","Kadegaon","4551","Wangi","188525","Wangi","568449",true,"Compost Pits",0,2,0,0.14
+"Rajasthan","8","Kotputli-Behror","782","Neemrana","581","Doomroli","34109","Naysarana","71837",true,"BioGas Plants",0,0,0,0
+"Assam","18","Lakhimpur","295","Ghilamara","2643","Sunari Chapori","106977","Chanimari 1/2","288531",false,"Household Bins",0,0,0,""
+"Rajasthan","8","Ganganagar","100","Suratgarh","680","1 Lm","262893","4 Bpm","66948",true,"Feeding to Cattle",0,0,0,0
+"Assam","18","Dibrugarh","286","Naharkatia","2564","Namrup","106263","Dillchah Bagicha (313 Nlr)","292419",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Agar-Malwa","667","Barod","4001","Kalyakhedi","150590","Pipalya Sadikpur","472497",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Tumakuru","548","Tumakuru","5913","Bellavi","220356","Bellavi","611272",true,"Feeding to Cattle",0,0,0,0
+"Chhattisgarh","22","Surajpur","648","Bhaiyathan","3720","Palma","130658","Palma","432785",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Purba Bardhaman","306","Purbasthali-Ii","2822","Nimdaha","108719","Nakadaha","319566",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Narayangarh","2995","Tutranga","110458","Rama","343393",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Sant Kabir Nagar","178","Baghauli","1501","Surdahiya","85755","Kesari","182692",true,"Compost Pits",0,0,0,0
+"Karnataka","29","Haveri","540","Hirekerur","5857","Tavaragi","218585","Basarihalli","604388",true,"Compost Pits",0,0,0,0
+"Gujarat","24","Banas Kantha","441","Dhanera","4085","Bhatram","156157","Sodal","507663",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Ganganagar","100","Gharsana","6719","7 Knd","37712","4 Knd-A","65953",true,"Household Bins",0,0,0,""
+"West Bengal","19","Bankura","305","Saltora","2790","Salma","108435","Majit","325993",true,"Feeding to Cattle",0,0,0,0
+"Rajasthan","8","Hanumangarh","101","Nohar","683","Thalkara (17 Rwd)","38212","2 Tkm","68592",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Devbhumi Dwarka","674","Okhamandal","4131","Baradia","159266","Baradia","513477",false,"Household Bins",0,0,0,""
+"Rajasthan","8","Churu","96","Ratangarh","656","Hudera Agoona","294600","Hudera Siddhan","70628",true,"BioGas Plants",0,0,0,0
+"Himachal Pradesh","2","Kangra","18","Bhawarna","152","Gadiyara","298110","Ghadoral (92)","11569",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Buldhana","472","Chikhli","4340","Naigaon Khurd","265781","Naigaon Kh.","529154",true,"BioGas Plants",0,0,0,0
+"Assam","18","Baksa","616","Gobardhana","2494","Nimua","261125","Dalogaon","304151",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Tikamgarh","434","Baldeogarh","4027","Surajpur Khas","152681","Surajpur Khas","457113",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Sehore","427","Sehore","3986","Shahajahapura","149450","Shahjahanpur","482794",false,"Household Bins",0,0,0,""
+"Andhra Pradesh","28","Alluri Sitharama Raju","745","Y. Ramavaram","4920","Kaniwada","199921","Kaniwada(053 )","586696",false,"BioGas Plants",0,0,0,0
+"Jharkhand","20","Palamu","338","Pandu","3213","Tisi Bar Kalan","114489","Tisibar Khurd","365668",true,"Household Bins",0,0,0,""
+"Uttarakhand","5","Pauri Garhwal","52","Pokhra","409","Dalmarha","24827","Thapla","48187",true,"Compost Pits",1,0,0,5.26
+"Madhya Pradesh","23","Chhindwara","399","Bichhua","3790","Paniyari","135272","Palatara","495355",true,"Compost Pits",0,0,0,0
+"Maharashtra","27","Washim","499","Risod","4616","Bibkheda","193549","Bibkhed","531299",true,"Household Bins",0,0,0,""
+"Assam","18","Dibrugarh","286","Joypur","2564","Tipam Fakial","106266","Tipam Fakial Nepali","292337",false,"BioGas Plants",0,0,0,0
+"Assam","18","Biswanath","705","Pub Chaiduar","2712","Alupara","107648","Kakilamaj Gaon","287317",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Mahisagar","669","Kadana","4188","Kadana","162463","Daduni Muvadi","517949",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Wardha","498","Karanja","4608","Kundi","192969","Jamani","533610",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Jaunpur","152","Maharaj Ganj","1233","Basupur","69859","Basupur","200830",true,"Household Bins",0,0,0,""
+"West Bengal","19","Murshidabad","319","Bhagawangola-I","3005","Kantanagar","110564","Kantanagar","314437",true,"Household Bins",1,0,0,""
+"Odisha","21","Kendujhar","361","Ghatgaon","3447","Basantapur","119336","Ukuchabeda","386474",true,"Feeding to Cattle",0,0,0,0
+"Chhattisgarh","22","Narayanpur","637","Orchha(Abhujmad)","3601","Kandadi","122350","Ghodagaon","931212",true,"Compost Pits",0,0,0,0
+"Meghalaya","17","East Garo Hills","273","Songsak","2454","Bone Songgitcham","284484","Bone Songgitcham","275281",true,"Household Bins",0,0,0,""
+"Bihar","10","Gopalganj","197","Uchkagaon","1769","Jhirwan","95999","Shampur","230726",true,"Household Bins",0,0,0,""
+"Telangana","36","Jangoan","689","Jangaon","5675","Obulakeshvapur","213638","Oblakeshvapur","578231",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Hingoli","477","Hingoli","4393","Karanjala","176005","Karanjala","545991",true,"BioGas Plants",0,0,0,0
+"Jharkhand","20","Pakur","337","Pakur","3202","Jamsherpur","114228","Jamserpur","360440",true,"Compost Pits",0,0,0,0
+"West Bengal","19","Murshidabad","319","Farakka","3010","Beniagram","110612","Kendua","313789",true,"Compost Pits",4,0,0,1.17
+"Madhya Pradesh","23","Khargone (West Nimar)","414","Maheshwar","3897","Hodadiya","142479","Jamnaya","477009",false,"Compost Pits",7,0,0,2.8
+"West Bengal","19","Purba Bardhaman","306","Purbasthali-I","2821","Nadanghat","108709","Kamalpur","319484",true,"Compost Pits",0,0,0,0
+"Jharkhand","20","Giridih","329","Gandey","3137","Karribank","112864","Keradabar","351845",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Ballia","126","Rasra","921","Nasirpur","50285","Pakad Bojh","198369",true,"Compost Pits",0,0,0,0
+"Himachal Pradesh","2","Solan","25","Nalagarh","203","Lunas","10256","Lunas (59)","20496",true,"Feeding to Cattle",64,0,0,51.61
+"Goa","30","South Goa","552","Quepem","5937","Xeldem","254535","Xeldem","626969",false,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Bara Banki","129","Ramnagar","953","Roti Gaon","52325","Habib Pur","164393",true,"Compost Pits",0,0,0,0
+"Uttarakhand","5","Almora","45","Bhikiyasain","353","Sananey","20732","Sanane","52599",true,"Compost Pits",0,0,0,0
+"Chhattisgarh","22","Bilaspur","375","Masturi","3610","Itwa","122961","Entawa","438860",true,"Feeding to Cattle",0,0,0,0
+"Tamil Nadu","33","Thiruvallur","589","Pallipattu","6350","Keechalam","229343","Keechalam","628953",true,"Compost Pits",0,0,0,0
+"Jharkhand","20","West Singhbhum","343","Manjhari","3269","Meromhoner","115458","Patahatu","378229",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Pingla","2997","Pindurui","110480","Abdulla","342690",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Ajmer","86","Srinagar","573","Maoshiya","33848","Deoliya","92115",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Navsari","453","Vansda","4183","Mola Amba","162159","Mola Amba","523224",true,"Compost Pits",0,0,0,0
+"Odisha","21","Baleshwar","346","Jaleswar","3303","Lakhannath","116184","Ranighati","391433",true,"Compost Pits",0,1,0,1.43
+"Assam","18","Tamulpur","756","Nagrijuli","2683","Pub Kumarikata No.2","253495","Chandra Nagar","304706",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Kushinagar","160","Padrauna","1317","Sidhua","74668","Sidhua","188586",true,"BioGas Plants",0,0,0,0
+"Andhra Pradesh","28","Alluri Sitharama Raju","745","Ananthagiri","5584","Kivarla","211742","Gangavaram(190)","584255",false,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Bara Banki","129","Harakh","948","Bhagwanpur","51992","Bhagwanpur","164693",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Cuttack","350","Narasinghpur","3340","Godibandha","117052","Bichanabati","398629",false,"BioGas Plants",0,0,0,0
+"Bihar","10","Saran","218","Nagra","2073","Takiya","100755","Takia","233762",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Sawai Madhopur","113","Chauth Ka Barwara","6824","Mui","41503","Juwar","77694",true,"Feeding to Cattle",0,0,0,0
+"Himachal Pradesh","2","Mandi","22","Chauntra","177","Talkehar","9268","Machkehar (8)","13242",true,"BioGas Plants",0,0,0,0
+"Bihar","10","Nalanda","209","Rahui","1909","Patasang","98235","Kadi Bigha","244386",true,"Compost Pits",0,0,0,0
+"West Bengal","19","South 24 Parganas","304","Bishnupur-I","2749","Panakua","108035","Panakua","333443",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Rae Bareli","175","Amawan","1463","Garhi Khas","83430","Garhi Khas","144308",true,"BioGas Plants",0,0,0,0
+"Assam","18","Dima Hasao","299","Diyungbra","2689","Diyungmukh Mac Area","0","Tara Abi","298308",true,"Compost Pits",5,0,0,100
+"Madhya Pradesh","23","Ujjain","435","Ujjain","4038","Kachnariya","153634","Kachnariya","471951",true,"Compost Pits",0,0,0,0
+"Himachal Pradesh","2","Kangra","18","Fatehpur","154","Thehar","8364","Lambat (43)","8933",true,"Compost Pits",4,0,0,50
+"Jharkhand","20","Palamu","338","Padwa","6649","Patra","114535","Buchi Lami","366015",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Gorakhpur","148","Piprauli","1184","Chaktelhana","66914","Baywaharia","185764",true,"Household Bins",0,0,0,""
+"Himachal Pradesh","2","Kangra","18","Kangra","156","Upper Lanj","8455","Phair (193)","9302",true,"Feeding to Cattle",0,0,0,0
+"West Bengal","19","Bankura","305","Patrasayer","2787","Kushadwip","108409","Kushadwip","327699",true,"Household Bins",0,0,0,""
+"Jammu And Kashmir","1","Baramulla","3","Kunzer","26","Mulgam","241841","Awalara","2646",true,"Household Bins",0,0,0,""
+"Odisha","21","Baleshwar","346","Basta","3301","Barunagadia","275667","Chandramadei Pur","392346",false,"Feeding to Cattle",0,0,0,0
+"Assam","18","Biswanath","705","Baghmara","2702","Rotowa","107538","Bihpukhuri Kachari","286728",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Kanpur Nagar","157","Bhitargaon","1276","Gauri Kakra","72103","Lachhman Khera","150667",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Nayagada","367","Dasapalla","3524","Sariganda","120622","Budhapadar","405548",true,"Compost Pits",18,0,0,100
+"Odisha","21","Malkangiri","364","Khairaput","3481","Madkapadar","119955","Dabuguda","430492",false,"Compost Pits",92,0,0,100
+"Madhya Pradesh","23","Tikamgarh","434","Baldeogarh","4027","Bhilouni","152615","Bhiloni","457036",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Salumbar","777","Salumbar","801","Idana","42654","Loda","107111",true,"Compost Pits",0,0,0,0
+"West Bengal","19","Jhargram","703","Nayagram","2996","Ara","110459","Pinrrachuni Urf Dhiral","341141",true,"Feeding to Cattle",0,0,0,0
+"West Bengal","19","Uttar Dinajpur","311","Itahar","2883","Durlovpur","109301","Nandangaon","310152",true,"Household Bins",0,0,0,""
+"Assam","18","Dibrugarh","286","Khowang","2565","Naharani","106275","Teporchal Bamgaon","291868",true,"BioGas Plants",0,0,0,0
+"Chhattisgarh","22","Surguja","389","Mainpat","3724","Pent","130880","Pent","433575",true,"Household Bins",0,0,0,""
+"Odisha","21","Ganjam","354","Sheragada","3384","Bara Mundali","117996","Patapabuli","411190",true,"Feeding to Cattle",0,0,0,0
+"Madhya Pradesh","23","Harda","408","Timarni","3854","Banshipura","139602","Imdrapura","487080",true,"Household Bins",0,0,0,""
+"Gujarat","24","Bharuch","442","Bharuch","4093","Segva","156776","Segva","522082",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Latur","481","Ausa","4432","Kalmatha","179367","Kalmata","560596",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Kanpur Nagar","157","Chaubeypur","1278","Kyona","72236","Khwajgipur","150180",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Satna","426","Ramnagar","3978","Sunadi","148704","Bagdari No.2","464524",false,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Bahraich","125","Kaisarganj","898","Haidarpur Nauvbasta","49026","Haidarpur Nauvbasta","172475",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Balaghat","392","Waraseoni","3753","Umarwada","132828","Umarwada","497429",true,"Feeding to Cattle",0,0,0,0
+"Tamil Nadu","33","Perambalur","581","Alathur","6254","Bujangarayanallur","226297","Bhujangarayanallur","636297",true,"BioGas Plants",0,0,0,0
+"Maharashtra","27","Satara","494","Karad","4560","Chachegaon","189190","Chachegaon","564588",true,"BioGas Plants",1,0,0,0.17
+"Gujarat","24","Tapi","641","Vyara","4246","Karanjvel","165703","Kapadvan","524787",false,"Household Bins",0,0,0,""
+"Maharashtra","27","Beed","470","Dharur","4324","Ghagarwada","171376","Ghagarwada","559857",true,"BioGas Plants",0,0,0,0
+"Karnataka","29","Gadag","537","Shirahatti","5835","Vadavi","217862","Hosur","602119",true,"BioGas Plants",0,0,0,0
+"Odisha","21","Ganjam","354","Chikiti","3370","Kalabada","117696","Maisanpur","413078",true,"BioGas Plants",0,0,0,0
+"Madhya Pradesh","23","Rajgarh","422","Zirapur","3947","Dhatrawda","146201","Dhatraoda","478841",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Hassan","539","Arkalgud","5847","Aladahalli","272838","Mathra","616524",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Nanded","485","Umri","4472","Vasantnagar","182093","Vasantnagar","544920",false,"BioGas Plants",0,0,0,0
+"Bihar","10","Muzaffarpur","208","Katra","1883","Madhepura","97764","Madhaipura","229108",true,"Household Bins",0,0,0,""
+"West Bengal","19","Birbhum","307","Rampurhat-Ii","2842","Kaluha","108894","Kanakpur","316414",true,"Feeding to Cattle",190,0,0,100
+"Uttarakhand","5","Dehradun","49","Vikasnagar","384","Adu Wala","23231","Aduwala","45023",true,"Feeding to Cattle",1,0,0,0.22
+"Odisha","21","Ganjam","354","Hinjilicut","3374","Kharida","117773","Kharida","412287",true,"Compost Pits",0,0,0,0
+"West Bengal","19","Murshidabad","319","Berhampore","3003","Haridasmati","110543","Belia Khari","315387",true,"BioGas Plants",0,0,0,0
+"Assam","18","Barpeta","280","Chenga","2493","Roumari Pathar","105646","Malipara","282996",false,"Feeding to Cattle",0,0,0,0
+"Himachal Pradesh","2","Una","26","Una","209","Fatehpur","10499","Fatehpur (223)","18812",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Jodhpur","107","Shergarh","729","Ramgarh","262361","Paboogarh","85440",true,"Feeding to Cattle",0,0,0,0
+"Chhattisgarh","22","Balod","646","Gurur","3637","Badhbhum","124711","Petechuwa","443448",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Budaun","133","Sahaswan","1011","Jarifpur Garhiya","56422","Jarifpur Garhiya","128205",true,"Feeding to Cattle",0,0,0,0
+"Andhra Pradesh","28","Chittoor","503","Chittoor","4755","Guvvakallu","196916","Guvvakallu","596704",true,"Feeding to Cattle",0,0,0,0
+"Gujarat","24","Gandhinagar","446","Kalol","4120","Vansajada (K)","158569","Vansajada","511156",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Ballia","126","Bansdih","909","Nakhra","272649","Pakdiya","199658",true,"BioGas Plants",0,0,0,0
+"Himachal Pradesh","2","Una","26","Gagret","207","Dangoh Khas","10414","Up Mahal Dangoh Khas(120)","18114",true,"Feeding to Cattle",29,0,0,3.97
+"Assam","18","Lakhimpur","295","Dhakuakhana","2642","Kherkata","106964","Medhisuti","288397",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Kheri","159","Isanagar","1298","Bhadehia","73297","Bhadehia","136688",true,"Compost Pits",0,0,0,0
+"Rajasthan","8","Alwar","87","Govindgarh","7397","Nizam Nagar","34055","Jaisinghpura","73523",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Gorakhpur","148","Gola","1177","Baraiparramrup","66447","Baraiparramrup","187658",true,"Feeding to Cattle",1,0,0,0.45
+"Uttar Pradesh","9","Jaunpur","152","Jalal Pur","1228","Majhgawa Khurd","69514","Raksamapur","203137",true,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Amroha","154","Amroha","1252","Jabda","238607","Tajpur Mafi","117844",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Rajgarh","422","Biaora","3942","Newli","145718","Kodiyapura","479884",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Ambedkar Nagar","121","Bhiti","852","Pawa","0","Pure Gangaram","168510",false,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Morena","417","Morena","3917","Bhainsoura","143774","Partappura","452239",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Aligarh","119","Jawan Sikanderpur","826","Alampur Subkara","266363","Alampur Subkaramafi","122510",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Rae Bareli","175","Khiron","1472","Akohriya","83787","Akohriya","144575",true,"Feeding to Cattle",0,0,0,0
+"Karnataka","29","Mandya","544","Krishnarajpet","5879","Lakshmi Pura","219224","Uddinamallanahosur","613382",true,"Household Bins",0,0,0,""
+"Odisha","21","Dhenkanal","352","Hindol","3352","Gulehi","117320","Kalanda","403070",true,"BioGas Plants",0,0,0,0
+"Bihar","10","Bhojpur","193","Piro","1697","Narayanpur","94884","Jamaurahi","247398",true,"Compost Pits",0,0,0,0
+"Chhattisgarh","22","Sukma","642","Sukma","3623","Pordem","123673","Pordem","450652",true,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Niwari","722","Prithvipur","4031","Papawni","152967","Sunrai Khas","456578",true,"Household Bins",0,0,0,""
+"Odisha","21","Rayagada","370","Ramanaguda","3556","Boothing","121238","Piraba","426777",true,"Household Bins",0,0,0,""
+"Telangana","36","Jagitial","681","Kathalapur","5020","Ippapally","201448","Ippapalle","572153",true,"Feeding to Cattle",0,0,0,0
+"Rajasthan","8","Barmer","90","Dhorimanna","607","Alamsar Khurd","295498","Hem Nagar","901405",false,"Household Bins",0,0,0,""
+"Bihar","10","Araria","188","Jokihat","1627","Chainpur Masuria","93733","Wajid Pur","222180",false,"Household Bins",0,0,0,""
+"Madhya Pradesh","23","Mandla","415","Bichhiya","3900","Amadongari","142640","Amadongri","493204",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Rewa","424","Jawa","3956","Kanchanpur","146921","Sehuda(551)","465222",true,"BioGas Plants",0,0,0,0
+"Gujarat","24","Tapi","641","Kukarmunda","7130","Fulwadi","165340","Kukarmunda","524446",true,"BioGas Plants",0,0,0,0
+"Rajasthan","8","Sikar","114","Khandela","776","Malakali","41837","Bhopatpura","82086",true,"Compost Pits",0,0,0,0
+"Madhya Pradesh","23","Jabalpur","411","Kundam","3867","Supawara","140578","Tikariya","490386",true,"Household Bins",0,0,0,""
+"Odisha","21","Boudh","349","Kantamal","3331","Ghikundi","116819","Tundumal","417894",true,"Feeding to Cattle",0,0,0,0
+"Telangana","36","Yadadri Bhuvanagiri","697","Addaguduru","7295","Veldevi","207751","Veldevi","576699",true,"Compost Pits",0,0,0,0
+"Uttar Pradesh","9","Saharanpur","177","Gangoh","1492","Jahra","85106","Jahra","110004",true,"Feeding to Cattle",0,0,0,0
+"West Bengal","19","Malda","316","Kaliachak-I","2940","Kaliachak-I","109937","Kaliachak","313567",true,"BioGas Plants",0,0,0,0
+"Tamil Nadu","33","Viluppuram","596","Vikravandi","6474","Papanapattu","233994","Pappanapattu","632892",true,"BioGas Plants",0,0,0,0
+"Assam","18","Lakhimpur","295","Bihpuria","2640","Badati Jamuguri","106945","Bodoti Jamuguri","287736",true,"Feeding to Cattle",0,0,0,0
+"Assam","18","Karbi Anglong","292","Langsomepi","2620","Langhin","257810","Beltala No.2","297447",true,"BioGas Plants",0,0,0,0
+"Punjab","3","Ludhiana","36","Mullanpur","302","Bharowal Kalan","16921","Bharowal Kalan (70)","33824",true,"Feeding to Cattle",0,0,0,0
+"Punjab","3","Bathinda","28","Goniana","7333","Kothe Phula Singh Wale","235954","Ablu (174)","35765",true,"Feeding to Cattle",0,0,0,0
+"Arunachal Pradesh","12","Tawang","238","Zemithang Dudunghar","6807","Khobleteng","103184","Hangyang","261390",false,"BioGas Plants",0,0,0,0
+"Uttar Pradesh","9","Azamgarh","123","Atraulia","867","Karsara","46966","Karsara","192123",true,"Household Bins",0,0,0,""
+"Uttar Pradesh","9","Kanpur Nagar","157","Bhitargaon","1276","Bhelsa","267252","Bhelsa","150721",true,"Household Bins",0,0,0,""
+"Arunachal Pradesh","12","Upper Subansiri","241","Siyum","6803","Pakring Yorbe","298138","Row","262860",true,"Compost Pits",0,0,0,0
+"Uttarakhand","5","Pithoragarh","53","Kanalichina","418","Pataligaon","25580","Pataligaon","49414",true,"Household Bins",0,0,0,""
+"Maharashtra","27","Ahilyanagar","466","Akole","4277","Mehenduri","167634","Mehenduri","557227",true,"Feeding to Cattle",0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Keshpur","2990","Amanpur","110398","Burya Pat","338172",true,"Feeding to Cattle",0,0,0,0
+"Himachal Pradesh","2","Kangra","18","Panchrukhi","161","Bharoo (Diyogran)","8655","Holsu","11800",false,"BioGas Plants",0,0,0,0
+"Assam","18","Hojai","709","Jugijan","2662","Islam Nagar","107199","Islampur","285142",false,"Compost Pits",202,0,0,39.84
+"Rajasthan","8","Jodhpur","107","Sekhala","6831","Bhaloo Laxmangarh","262862","Bhalookalan","85238",true,"BioGas Plants",0,0,0,0
+"West Bengal","19","Purulia","321","Balarampur","3046","Tentlow","110974","Banbandha","331696",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Baleshwar","346","Remuna","3307","Chaskhand","116269","Padabadgan","392666",true,"Household Bins",0,0,0,""
+"Jharkhand","20","Pakur","337","Pakur","3202","Dadpur","114221","Malaipur","360368",true,"Compost Pits",0,0,0,0
+"Jharkhand","20","Palamu","338","Hussainabad","3210","Kurmipur","114431","Kurmipur","365114",true,"Feeding to Cattle",0,0,0,0
+"Uttar Pradesh","9","Mau","168","Ghosi","1382","Patila Zamin Patila","78529","Patila Zamin Patila","196245",true,"Compost Pits",0,0,0,0
+"Andhra Pradesh","28","Parvathipuram Manyam","743","Veeraghattam","5580","Narsipuram","211700","Narsipuram","579914",true,"Household Bins",0,0,0,""
+"Karnataka","29","Chitradurga","533","Hosdurga","5813","Karehalli","217170","Hagalakere","606003",true,"Feeding to Cattle",0,0,0,0
+"Maharashtra","27","Solapur","496","Mohol","4584","Galandwadi","191547","Galandawadi","562222",true,"Feeding to Cattle",0,0,0,0
+"Odisha","21","Baleshwar","346","Bahanaga","3298","Sahaspur","116062","Jhadta","393946",true,"Compost Pits",0,0,0,0
